@@ -2,7 +2,7 @@
 <h3 align="center">A passionate backend developer from India</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Dishank-Sen&label=Profile%20views&color=0e75b6&style=flat" alt="Dishank-Sen" />
+  <img src="https://komarev.com/ghpvc/?username=Dishank-Sen&label=Profile%20views&color=blue&style=flat" alt="Dishank-Sen" />
 </p>
 
 - 📫 How to reach me **dishanksen05@gmail.com**
@@ -38,15 +38,15 @@
 </p>
 
 ### 🔥 My Stats
+
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dishank-Sen&layout=compact&hide_progress=true" alt="top-langs" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dishank-Sen&layout=compact&hide_progress=true&theme=tokyonight" alt="top-langs" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dishank-Sen&show_icons=true&locale=en" alt="stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dishank-Sen&show_icons=true&locale=en&theme=tokyonight" alt="stats" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dishank-Sen" alt="streak" />
+  <img align="center" src="https://streak-stats.demolab.com?user=Dishank-Sen&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
-

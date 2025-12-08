@@ -57,7 +57,7 @@
 
 ## 🔥 Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Dishank-Sen&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Dishank-Sen&theme=solarized-dark&hide_border=true" height="180" />
 </p>
 
 ## 🏆 GitHub Trophies

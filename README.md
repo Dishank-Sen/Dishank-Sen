@@ -1,52 +1,79 @@
-<h1 align="center">Hi 👋, I'm Dishank Sen</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<!-- Banner -->
+<h1 align="center">Hi 👋, I'm <strong>Dishank Sen</strong></h1>
+<h3 align="center">Backend Developer • WebRTC Enthusiast • MERN & Go Developer</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Dishank-Sen&label=Profile%20views&color=blue&style=flat" alt="Dishank-Sen" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dishank-Sen&label=Profile%20views&color=blue&style=flat" alt="views" />
 </p>
 
-- 📫 How to reach me **dishanksen05@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
+## 🚀 About Me
+- Backend-heavy developer who loves building real-time systems  
+- Currently exploring **WebRTC**, **Distributed Systems**, and **System Design**  
+- Undergrad at **IIT Roorkee**  
+- Reach me at **dishanksen05@gmail.com**
+
+---
+
+## 🌐 Connect With Me
 <p align="left">
   <a href="https://twitter.com/DishankSen" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="DishankSen" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=twitter" width="40" />
+  </a>
+  <a href="mailto:dishanksen05@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/dishank-sen" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+## 🧰 Tech Stack  
+(All icons made fully visible on dark backgrounds)
+
 <p align="left">
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" /></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" /></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" /></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" /></a>
-  <a href="https://golang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40" /></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" /></a>
-  <a href="https://kafka.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40" height="40" /></a>
-  <a href="https://kubernetes.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40" /></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" /></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" /></a>
-  <a href="https://www.nginx.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40" /></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" /></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" /></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" /></a>
-  <a href="https://redis.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40" /></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" /></a>
+  <img src="https://skillicons.dev/icons?i=cpp,go,js,ts,nodejs,express,react,tailwind,html,css" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,redis,kafka,docker,nginx,linux,git,github,postgres" />
 </p>
 
-### 🔥 My Stats
+---
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dishank-Sen&layout=compact&hide_progress=true&theme=tokyonight" alt="top-langs" />
+## 🧩 Interesting Stuff
+### 🎯 Random Dev Quote
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+### 🐍 Contribution Snake
+<img src="https://raw.githubusercontent.com/Dishank-Sen/Dishank-Sen/output/github-contribution-grid-snake-dark.svg" />
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dishank-Sen&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dishank-Sen&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dishank-Sen&show_icons=true&locale=en&theme=tokyonight" alt="stats" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Dishank-Sen&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
-<p>
-  <img align="center" src="https://streak-stats.demolab.com?user=Dishank-Sen&theme=tokyonight&hide_border=true" alt="streak" />
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dishank-Sen&theme=tokyonight&no-frame=true&margin-w=5" />
 </p>
+
+---
+
+## 👣 Visitors
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Dishank-Sen&icon=3&color=1" />
+</p>
+
+---
+

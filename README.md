@@ -32,8 +32,6 @@
 ---
 
 ## 🧰 Tech Stack  
-(All icons made fully visible on dark backgrounds)
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,go,js,ts,nodejs,express,react,tailwind,html,css" />
   <br/>

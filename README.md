@@ -44,9 +44,6 @@
 ### 🎯 Random Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
-## 🐍 Contribution Snake
-<img src="https://raw.githubusercontent.com/Dishank-Sen/Dishank-Sen/output/github-contribution-grid-snake-dark.svg" />
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Dishank-Sen&show_icons=true&theme=tokyonight&hide_border=true" height="160" />

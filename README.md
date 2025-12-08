@@ -46,29 +46,24 @@
 ### 🎯 Random Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
-### 🐍 Contribution Snake
+## 🐍 Contribution Snake
 <img src="https://raw.githubusercontent.com/Dishank-Sen/Dishank-Sen/output/github-contribution-grid-snake-dark.svg" />
-
----
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dishank-Sen&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dishank-Sen&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Dishank-Sen&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dishank-Sen&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
+## 🔥 Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Dishank-Sen&theme=tokyonight&hide_border=true" height="180" />
 </p>
-
----
 
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Dishank-Sen&theme=tokyonight&no-frame=true&margin-w=5" />
 </p>
-
----
 
 ## 👣 Visitors
 <p align="center">

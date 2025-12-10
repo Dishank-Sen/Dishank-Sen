@@ -33,9 +33,9 @@
 
 ## 🧰 Tech Stack  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,go,js,ts,nodejs,express,react,tailwind,html,css" />
+  <img src="https://skillicons.dev/icons?i=cpp,go,js,ts,nodejs,express,react,tailwind,html,css,mongodb,redis,kafka,docker,nginx" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,redis,kafka,docker,nginx,linux,git,github,postgres" />
+  <img src="https://skillicons.dev/icons?i=python,linux,git,github,postgres,kubernetes,postman" />
 </p>
 
 ---
